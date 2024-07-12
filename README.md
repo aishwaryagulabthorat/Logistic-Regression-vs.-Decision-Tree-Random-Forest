@@ -34,7 +34,7 @@ This project aims to predict whether a customer will switch to another telecom p
 ## Logistic Regression vs. Trees
 Random Forests provided a significant improvement in results compared to both logistic regression and decision trees, with much less effort. They leveraged the predictive power of decision trees and learned much more than a single decision tree could do alone. However, Random Forests lack visibility regarding key features and the direction of their effects, which logistic regression handles well. If interpretation is not of key significance, Random Forests are highly effective.
 
-**Key Components**
+###Key Components
 
 Code: Implementation of Logistic Regression, Decision Tree and Random Forest algorithms in Python.
 
