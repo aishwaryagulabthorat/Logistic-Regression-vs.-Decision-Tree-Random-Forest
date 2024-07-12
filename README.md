@@ -36,6 +36,7 @@ Random Forests provided a significant improvement in results compared to both lo
 
                   Logistic Regression 	   Decision Tree	   Random Forest
 **Accuracy**		        78.3%			        79.8%		        80.5%
+
 **AUC**			           0.85				     0.87			     0.94
 
 
