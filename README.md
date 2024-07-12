@@ -34,9 +34,9 @@ This project aims to predict whether a customer will switch to another telecom p
 ## Logistic Regression vs. Trees
 Random Forests provided a significant improvement in results compared to both logistic regression and decision trees, with much less effort. They leveraged the predictive power of decision trees and learned much more than a single decision tree could do alone. However, Random Forests lack visibility regarding key features and the direction of their effects, which logistic regression handles well. If interpretation is not of key significance, Random Forests are highly effective.
 
-                  **Logistic Regression** 	   **Decision Tree**	   **Random Forest**
-**Accuracy**		        78.3%			               79.8%		            80.5%
-**AUC**			           0.85				            0.87			         0.94
+                  Logistic Regression 	   Decision Tree	   Random Forest
+**Accuracy**		        78.3%			        79.8%		        80.5%
+**AUC**			           0.85				     0.87			     0.94
 
 
 **Key Components**
